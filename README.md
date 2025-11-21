@@ -4,9 +4,11 @@ DATE:
 **  
 
 
-## AIM  : To simulate the performance of  INVERTING, NON INVERTING , DIFFERENTIAL AND INSTRUMENTATION AMPLIFIERS  circuits using LT- SPICE                
+## AIM  : 
 
+To simulate the performance of  INVERTING, NON INVERTING , DIFFERENTIAL AND INSTRUMENTATION AMPLIFIERS  circuits using LT- SPICE                
 
+---
 
 ## PROCEDURE:
 
@@ -27,48 +29,52 @@ DATE:
 
 ---
 
-
----
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
+<img width="865" height="380" alt="image" src="https://github.com/user-attachments/assets/7b552aa1-a859-4c50-91f9-cdaf693a1bed" />
+
 
 ---
 
 2.## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
 
-PASTE THE CIRCUIT HERE
+<img width="870" height="497" alt="image" src="https://github.com/user-attachments/assets/d6b92bb4-0ff9-4b3f-9519-f4fa13cc6695" />
+
 ---
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
+<img width="890" height="396" alt="image" src="https://github.com/user-attachments/assets/08c1cae0-b802-4634-bdca-66df0efc86b8" />
+
 ---
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 
-PASTE THE CIRCUIT HERE
+<img width="846" height="438" alt="image" src="https://github.com/user-attachments/assets/f9acec47-77bc-4710-87fe-2c6041c251fe" />
+
 ---
-
-
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
+<img width="867" height="432" alt="image" src="https://github.com/user-attachments/assets/a765cc1f-e035-4077-ba3f-3e631e8e35a8" />
+
 ---
+
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
-PASTE THE CIRCUIT HERE
+<img width="802" height="459" alt="image" src="https://github.com/user-attachments/assets/20b282e1-0896-44ab-a69f-99fbeea174ab" />
+
 ---
-
-
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
+<img width="862" height="428" alt="image" src="https://github.com/user-attachments/assets/5c006e0e-38af-4ac9-a01a-2798b589cae4" />
+
 ---
 
 ## RESULT
+
 Thus, the Inverting,Non-Inverting, Differential, and Instrumentation Amplifiers were designed and their performance successfully tested using LT-SPICE.
+
 ---
