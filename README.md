@@ -1,8 +1,5 @@
-**EX.NO:** 2 SIMULATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS USING LT SPICE
-DATE: 
-
-**  
-
+# EX.NO: 2 SIMULATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS USING LT SPICE
+### DATE:21-11-2025
 
 ## AIM  : 
 
@@ -22,7 +19,7 @@ To simulate the performance of  INVERTING, NON INVERTING , DIFFERENTIAL AND INST
 
 ---
 
-1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
+## 1.CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
 <img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/6c84b614-52e4-4620-982c-99d422c7a541" />
 
@@ -36,7 +33,7 @@ To simulate the performance of  INVERTING, NON INVERTING , DIFFERENTIAL AND INST
 
 ---
 
-2.## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
+## 2.CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
 
 <img width="870" height="497" alt="image" src="https://github.com/user-attachments/assets/d6b92bb4-0ff9-4b3f-9519-f4fa13cc6695" />
 
@@ -49,7 +46,7 @@ To simulate the performance of  INVERTING, NON INVERTING , DIFFERENTIAL AND INST
 <img width="890" height="396" alt="image" src="https://github.com/user-attachments/assets/08c1cae0-b802-4634-bdca-66df0efc86b8" />
 
 ---
-3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
+## 3.CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 
 <img width="846" height="438" alt="image" src="https://github.com/user-attachments/assets/f9acec47-77bc-4710-87fe-2c6041c251fe" />
 
@@ -61,7 +58,7 @@ To simulate the performance of  INVERTING, NON INVERTING , DIFFERENTIAL AND INST
 
 ---
 
-4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
+## 4.CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
 <img width="802" height="459" alt="image" src="https://github.com/user-attachments/assets/20b282e1-0896-44ab-a69f-99fbeea174ab" />
 
